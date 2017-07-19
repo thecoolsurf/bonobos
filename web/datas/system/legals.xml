@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datas>
+  <legals>
+    <societe type="text" row="" max="">Bonobos</societe>
+    <sarl type="hidden_text" row="" max="">sans</sarl>
+    <siret type="hidden_text" row="" max="">000 000 000 00000</siret>
+    <siren type="hidden_text" row="" max="">000 000 000</siren>
+    <tva type="text" row="" max="">sans</tva>
+    <ape type="hidden_text" row="" max="">sans</ape>
+    <cnil type="hidden_text" row="" max="">Cnil N°0000000 v0</cnil>
+    <rcs type="text" row="" max="">Matricule W000000000</rcs>
+    <host type="text" row="" max="">hoster.com</host>
+  </legals>
+</datas>

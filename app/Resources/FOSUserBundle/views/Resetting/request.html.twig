@@ -1,0 +1,20 @@
+{% extends "@FOSUser/layout.html.twig" %}
+
+{% block fos_user_content %}
+<div class="col-xs-6">
+    <h2>Password</h2>
+    <h3>Reset your Bonobo's password</h3>
+    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+</div>
+<div class="col-xs-6">
+    {% include "@FOSUser/Resetting/request_content.html.twig" %}
+</div>
+{% endblock fos_user_content %}
+
+{% block styles %}
+    <link rel="stylesheet" href="{{ asset('skin/css/styles.css') }}" />
+{% endblock %}
+
+{% block js %}
+    <script type="text/javascript" src="{{ asset('skin/js/publics/resetting.js') }}"></script>
+{% endblock %}

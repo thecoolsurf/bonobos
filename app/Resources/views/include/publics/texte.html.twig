@@ -1,0 +1,19 @@
+<div class="blocText">
+    {% for texte in textes[0] %}
+        {% if(texte.h1!='default') %}
+            <h1>{{ texte.h1 }}</h1>
+        {% endif  %}
+            {% if(texte.h2!='default') %}
+            <h2>{{ texte.h2 }}</h2>
+        {% endif %}
+        {% if(texte.p!='default') %}
+            {% if(textes[1]==2) %}
+            <p class="blocTwo">{{ texte.p }}</p>
+            {% elseif(textes[1]==3) %}
+            <p class="blocThree">{{ texte.p }}</p>
+            {% else %}
+            <p class="blocOne">{{ texte.p }}</p>
+            {% endif %}
+        {% endif  %}
+    {% endfor %}
+</div>

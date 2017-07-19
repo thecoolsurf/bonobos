@@ -1,0 +1,59 @@
+{# app/Recourses/views/publics/about.html.twig #}
+
+{% extends 'base.html.twig' %}
+
+{% block head %}
+{{ include('include/publics/head.html.twig') }}
+{% endblock %}
+
+{% block main %}
+    <div class="container" id="main">
+        <div id="" class="row">
+            <div class="col-xs-12">
+                <h2>Friends Bonobos</h2>
+                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+            </div>
+            <div class="col-xs-12">
+                <table class="table" width="100%">
+                    <tbody>
+                        <tr>
+                            <th>Create</th>
+                            <th>Username</th>
+                            <th>Genre</th>
+                            <th>Born</th>
+                            <th>Status</th>
+                            <th>Remove Friend</th>
+                        </tr>
+                        {% for row in rows %}
+                            {% set col = (app.user.id==row.memb_id)?'check':'gray' %}
+                            {% set lab = (app.user.id==row.memb_id)?'friend':'none' %}
+                            {% set ico = (app.user.id==row.memb_id)?'fa fa-times':'fa fa-check' %}
+                            {% set uri = (app.user.id==row.memb_id)?'friend-delete':'friend-insert' %}
+                            {% set bkg = (app.user.id==row.memb_id)?'bg-check':'bg-times' %}
+                            <tr id="{{ 'row'~row.id }}">
+                                <td class="{{ bkg }}">{{ row.create_at }}</td>
+                                <td class="{{ bkg }}"><b>{{ row.username }}</b></td>
+                                <td class="{{ bkg }}">{{ app.user.showGenre(row.genre) }}</td>
+                                <td class="{{ bkg }}">{{ row.born }}</td>
+                                <td class="{{ bkg }}">
+                                    <span class="{{ col }}">{{ lab }}</span>
+                                </td>
+                                <td class="{{ bkg }}">
+                                    <button class="btn" name="{{ uri }}"><i class="{{ ico }}"></i></button>
+                                </td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" href="{{ asset('skin/css/styles.css') }}" />
+{% endblock %}
+
+{% block js %}
+    <script type="text/javascript" src="{{ asset('skin/js/publics/friends.js') }}"></script>
+{% endblock %}

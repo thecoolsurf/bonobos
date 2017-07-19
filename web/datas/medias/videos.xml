@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datas>
+  <videos>
+    <date type="text" row="" max="">08/01/2012</date>
+    <titre type="text" row="" max="">Paris la nuit avec Les événements d'Anny.</titre>
+    <legende type="hidden_textarea" row="8" max="">Annie, organisatrice du club pour célibataires Les événements d'Anny, accueille dans un lieu sélect des célibataires à l'occasion d'une soirée.</legende>
+    <movie type="hidden_text" row="" max="">1327870050</movie>
+    <youtube type="hidden_text" row="" max="">default</youtube>
+  </videos>
+</datas>

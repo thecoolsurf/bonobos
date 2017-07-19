@@ -1,0 +1,121 @@
+#jumbotron {
+    background:url('/web/skin/images/bkg_bonobo.jpg') center center no-repeat;
+    position:relative;
+    color:#FFF;
+}
+#subscribe {
+    position:absolute;
+    top:20px;
+    right:20px;
+    z-index:10;
+    font-size:30px;
+}
+#footer {
+    background:#F8F8F8;
+    margin:40px 0 0 0;
+    padding:20px;
+    box-sizing:border-box;
+    border:solid 1px #E7E7E7;
+}
+#footer .fa {
+    margin:0 10px 10px 0;
+    font-size:40px;
+}
+#haut {
+    background:#286090;
+    display:none;
+    position:fixed;
+    bottom:50px;
+    left:10px;
+    z-index:1001;
+    width:50px;
+    height:50px;
+    font-size:40px;
+    line-height:50px;
+    color:#000;
+    text-align:center;
+    cursor:pointer;
+    border-radius:25px;
+}
+#haut:hover {
+    color:#FFF;
+}
+
+input, .form-control {
+    max-width:300px;
+}
+select {
+    max-width:200px;
+}
+#fos_user_profile_form_foods,
+#fos_user_registration_form_foods {
+    height:auto;
+}
+#fos_user_profile_form_foods input[type=checkbox],
+#fos_user_registration_form_foods input[type=checkbox] {
+    margin:0 10px 10px 0;
+}
+#fos_user_profile_form_foods label,
+#fos_user_registration_form_foods label {
+    margin:0 20px 0 0;
+    font-weight:normal;
+}
+.checker {
+    font-size:24px;
+    line-height:1;
+}
+.check {
+    color:#3C0;
+}
+.times {
+    color:#C00;
+}
+.gray {
+    color:#888;
+}
+.bg-check {
+    background:#daffce;
+}
+.bg-times {
+    background:#FFF;
+}
+button[name="friend-insert"],
+button[name="friend-delete"] {
+    width:35px;
+    height:28px;
+    padding:0;
+    border:solid 1px #CCC;
+}
+button[name="friend-insert"]:hover,
+button[name="friend-delete"]:hover {
+    background:#FFF;
+}
+button[name="friend-insert"]:hover span,
+button[name="friend-delete"]:hover span {
+    color:#555;
+}
+.loader {
+    background:#FFCC33;
+    position:absolute;
+    bottom:20px;
+    left:48%;
+    z-index:1000;
+    width:40px;
+    height:30px;
+    padding:4px 2px 5px 2px;
+    border-radius:5px;
+    text-align:center;
+}
+.loader i {
+    display:block;
+    font-size:2em;
+    line-height:1;
+    color:#000;
+-webkit-animation:spin 1s linear infinite;
+-moz-animation:spin 1s linear infinite;
+animation:spin 1s linear infinite;
+}
+@keyframes spin {
+    100% { -webkit-transform:rotate(360deg); transform:rotate(360deg); }
+}
+

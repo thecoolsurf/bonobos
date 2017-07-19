@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datas>
+  <preference>
+    <baseline type="hidden_text" row="" max="">Monky families</baseline>
+    <societe type="text" row="" max="">Bonobos</societe>
+    <adress type="hidden_text" row="" max="">Adresse postale</adress>
+    <cpostal type="hidden_text" row="" max="">75000</cpostal>
+    <ville type="hidden_text" row="" max="">PARIS</ville>
+    <email type="text" row="" max="">email@bonobos.fr</email>
+    <phone type="text" row="" max="">00.00.00.00.00</phone>
+    <mobile type="text" row="" max="">00.00.00.00.00</mobile>
+  </preference>
+</datas>

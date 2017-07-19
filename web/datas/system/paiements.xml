@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datas>
+    <paiements>
+        <id type="text">1</id>
+        <paiement type="text" row="" max="">ONLINE</paiement>
+    </paiements>
+    <paiements>
+        <id type="text">2</id>
+        <paiement type="text" row="" max="">SUR PLACE</paiement>
+    </paiements>
+    <paiements>
+        <id type="text">3</id>
+        <paiement type="text" row="" max="">GRATUIT</paiement>
+    </paiements>
+    <paiements>
+        <id type="text">4</id>
+        <paiement type="text" row="" max="">TELEPHONE</paiement>
+    </paiements>
+    <paiements>
+        <id type="text">5</id>
+        <paiement type="text" row="" max="">WEEZEVENT</paiement>
+    </paiements>
+</datas>

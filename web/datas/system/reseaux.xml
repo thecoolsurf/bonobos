@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datas>
+  <reseaux>
+    <name type="text" row="" max="">facebook</name>
+    <urls type="textarea" row="2" max="">default</urls>
+    <user type="text" row="" max="">default</user>
+    <appid type="text" row="" max="">default</appid>
+  </reseaux>
+  <reseaux>
+    <name type="text" row="" max="">linkedin</name>
+    <urls type="textarea" row="2" max="">default</urls>
+    <user type="text" row="" max="">default</user>
+    <appid type="text" row="" max="">default</appid>
+  </reseaux>
+  <reseaux>
+    <name type="text" row="" max="">twitter</name>
+    <urls type="textarea" row="2" max="">default</urls>
+    <user type="text" row="" max="">default</user>
+    <appid type="text" row="" max="">default</appid>
+  </reseaux>
+  <reseaux>
+    <name type="text" row="" max="">google-plus</name>
+    <urls type="textarea" row="2" max="">default</urls>
+    <user type="text" row="" max="">default</user>
+    <appid type="text" row="" max="">default</appid>
+  </reseaux>
+  <reseaux>
+    <name type="text" row="" max="">youtube</name>
+    <urls type="textarea" row="2" max="">default</urls>
+    <user type="text" row="" max="">default</user>
+    <appid type="text" row="" max="">default</appid>
+  </reseaux>
+</datas>

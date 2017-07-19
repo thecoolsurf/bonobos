@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datas>
+  <region>
+    <code type="text" row="" max="">01</code>
+    <name type="text" row="" max="">Guadeloupe</name>
+    <prefecture type="text" row="" max="">Basse-Terre</prefecture>
+  </region>
+  <region>
+    <code type="text" row="" max="">02</code>
+    <name type="text" row="" max="">Martinique</name>
+    <prefecture type="text" row="" max="">Fort-de-France</prefecture>
+  </region>
+  <region>
+    <code type="text" row="" max="">03</code>
+    <name type="text" row="" max="">Guyane</name>
+    <prefecture type="text" row="" max="">Cayenne</prefecture>
+  </region>
+  <region>
+    <code type="text" row="" max="">04</code>
+    <name type="text" row="" max="">La Réunion</name>
+    <prefecture type="text" row="" max="">Saint-Denis</prefecture>
+  </region>
+  <region>
+    <code type="text" row="" max="">06</code>
+    <name type="text" row="" max="">Mayotte</name>
+    <prefecture type="text" row="" max="">Mamoudzou</prefecture>
+  </region>
+  <region>
+    <code type="text" row="" max="">11</code>
+    <name type="text" row="" max="">Ile-de-France</name>
+    <prefecture type="text" row="" max="">Paris</prefecture>
+  </region>
+  <region>
+    <code type="text" row="" max="">24</code>
+    <name type="text" row="" max="">Centre-Val de Loire</name>
+    <prefecture type="text" row="" max="">Orléans</prefecture>
+  </region>
+  <region>
+    <code type="text" row="" max="">27</code>
+    <name type="text" row="" max="">Bourgogne-Franche-Comté</name>
+    <prefecture type="text" row="" max="">Dijon</prefecture>
+  </region>
+  <region>
+    <code type="text" row="" max="">28</code>
+    <name type="text" row="" max="">Normandie</name>
+    <prefecture type="text" row="" max="">Rouen</prefecture>
+  </region>
+  <region>
+    <code type="text" row="" max="">32</code>
+    <name type="text" row="" max="">Hauts-de-France</name>
+    <prefecture type="text" row="" max="">Lille</prefecture>
+  </region>
+  <region>
+    <code type="text" row="" max="">44</code>
+    <name type="text" row="" max="">Grand Est</name>
+    <prefecture type="text" row="" max="">Strasbourg</prefecture>
+  </region>
+  <region>
+    <code type="text" row="" max="">52</code>
+    <name type="text" row="" max="">Pays de la Loire</name>
+    <prefecture type="text" row="" max="">Nantes</prefecture>
+  </region>
+  <region>
+    <code type="text" row="" max="">53</code>
+    <name type="text" row="" max="">Bretagne</name>
+    <prefecture type="text" row="" max="">Rennes</prefecture>
+  </region>
+  <region>
+    <code type="text" row="" max="">75</code>
+    <name type="text" row="" max="">Nouvelle-Aquitaine</name>
+    <prefecture type="text" row="" max="">Bordeaux</prefecture>
+  </region>
+  <region>
+    <code type="text" row="" max="">76</code>
+    <name type="text" row="" max="">Occitanie</name>
+    <prefecture type="text" row="" max="">Toulouse</prefecture>
+  </region>
+  <region>
+    <code type="text" row="" max="">84</code>
+    <name type="text" row="" max="">Auvergne-Rhône-Alpes</name>
+    <prefecture type="text" row="" max="">Lyon</prefecture>
+  </region>
+  <region>
+    <code type="text" row="" max="">93</code>
+    <name type="text" row="" max="">Provence-Alpes-Côte d'Azur</name>
+    <prefecture type="text" row="" max="">Marseille</prefecture>
+  </region>
+  <region>
+    <code type="text" row="" max="">94</code>
+    <name type="text" row="" max="">Corse</name>
+    <prefecture type="text" row="" max="">Ajaccio</prefecture>
+  </region>
+</datas>

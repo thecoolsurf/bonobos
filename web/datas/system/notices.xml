@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datas>
+  <notices>
+    <name type="text" row="" max="">Connexion</name>
+    <value type="textarea" row="3" max="">Texte.</value>
+  </notices>
+  <notices>
+    <name type="text" row="" max="">Conditions</name>
+    <value type="textarea" row="3" max="">Texte.</value>
+  </notices>
+  <notices>
+    <name type="text" row="" max="">Conformités</name>
+    <value type="textarea" row="3" max="">Conformément à l'article 34 de la loi Informatique et Liberté du 6 janvier 1978, vous disposez d'un droit d'accès, de modification, de rectification et de suppression de données vous concernant. Cliquez sur le lien si après pour demander votre radiation du listing %s</value>
+  </notices>
+</datas>

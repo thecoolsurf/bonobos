@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datas>
+  <partenaires>
+    <titre type="textarea" row="1" max="">Pour ceux qui préferent l'intimité d'une rencontre à deux.</titre>
+    <legende type="hidden_textarea" row="6" max="">Annie vous propose, après un entretien, une sélection de personnes selon vos critères et désirs... Les abonnements sont proposés pour 1 mois, 3 mois ou 6 mois.</legende>
+    <lien type="hidden_text" row="" max="">http://prettyrencontres.com</lien>
+    <email type="hidden_text" row="" max="">info@prettyrencontres.com</email>
+    <photo type="hidden" row="" max="">prettyrencontres.jpg</photo>
+  </partenaires>
+</datas>

@@ -1,0 +1,66 @@
+AppBundle\Entity\Races:
+    race1:
+        name: 'Race_1'
+    race2:
+        name: 'Race_2'
+    race3:
+        name: 'Race_3'
+
+AppBundle\Entity\Family:
+    family1:
+        name: 'Family_1'
+    family2:
+        name: 'Family_2'
+    family3:
+        name: 'Family_3'
+
+AppBundle\Entity\Foods:
+    food1:
+        name: 'food_1'
+    food2:
+        name: 'food_2'
+    food3:
+        name: 'food_3'
+
+AppBundle\Entity\Member:
+    member0:
+        username: admin
+        username_canonical: admin
+        email (unique): admin@local.com
+        email_canonical: admin@local.com
+        enabled: 0
+        salt: ''
+        password: <sha1()>
+        last_login: 2017-06-13
+        confirmation_token: null
+        password_requested_at: null
+        roles: [ROLE_ADMIN]
+        genre: <randomElement($array=array(1,2))>
+        born: <date($format='Y-m-d',$max='now')>
+        photo: '1421967600.jpg'
+        family_id: '1'
+        race_id: '1'
+        lastname: <lastName()>
+        create_at: <date($format='Y-m-d',$max='now')>
+        expire_at: <date($format='Y-m-d',$max='now')>
+
+#    member{1..20}:
+#        username: <lastName()>
+#        username_canonical: <lastName()>
+#        email: <email()>
+#        email_canonical: <email()>
+#        enabled: 0
+#        salt: ''
+#        password: password
+#        last_login: ''
+#        confirmation_token: ''
+#        password_requested_at: ''
+#        roles: [ROLE_USER]
+#        genre: <randomElement($array=array(1,2))>
+#        born: <date($format='Y-m-d','1966-06-13')>
+#        photo: '1421967600.jpg'
+#        family_id: '1'
+#        race_id: '1'
+#        firstname: <lastName()>
+#        create_at: <date($format='Y-m-d',$max='now')>
+#        expire_at: <date($format='Y-m-d',$max='now')>

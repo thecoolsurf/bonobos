@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    {% block head %}{% endblock %}
+    <body>
+        {{ include('include/publics/menus.html.twig') }}
+        {{ include('include/publics/header.html.twig') }}
+        {% block main %}{% endblock %}
+        {{ include('include/publics/footer.html.twig') }}
+        {% block styles %}{% endblock %}
+        {% block js %}{% endblock %}
+    </body>
+</html>

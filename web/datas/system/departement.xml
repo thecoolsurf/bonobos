@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datas>
+  <departement>
+    <code type="text" row="" max="">01</code>
+    <name type="text" row="" max="">Ain</name>
+    <prefecture type="text" row="" max="">Bourg-en-Bresse</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">02</code>
+    <name type="text" row="" max="">Aisne</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">03</code>
+    <name type="text" row="" max="">Allier</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">04</code>
+    <name type="text" row="" max="">Alpes-de-Haute-Provence</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">05</code>
+    <name type="text" row="" max="">Hautes-Alpes</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">06</code>
+    <name type="text" row="" max="">Alpes-Maritimes / Monaco</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">07</code>
+    <name type="text" row="" max="">Ardèche</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">08</code>
+    <name type="text" row="" max="">Ardennes</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">09</code>
+    <name type="text" row="" max="">Ariège</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">10</code>
+    <name type="text" row="" max="">Aube</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">11</code>
+    <name type="text" row="" max="">Aude</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">12</code>
+    <name type="text" row="" max="">Aveyron</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">13</code>
+    <name type="text" row="" max="">Bouches-du-Rhône</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">14</code>
+    <name type="text" row="" max="">Calvados</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">15</code>
+    <name type="text" row="" max="">Cantal</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">16</code>
+    <name type="text" row="" max="">Charente</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">17</code>
+    <name type="text" row="" max="">Charente-Maritime</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">18</code>
+    <name type="text" row="" max="">Cher</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">19</code>
+    <name type="text" row="" max="">Corrèze</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">20</code>
+    <name type="text" row="" max="">Corse du Sud</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">21</code>
+    <name type="text" row="" max="">Côte-d'Or</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">22</code>
+    <name type="text" row="" max="">Côtes-d'Armor</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">23</code>
+    <name type="text" row="" max="">Creuse</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">24</code>
+    <name type="text" row="" max="">Dordogne</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">25</code>
+    <name type="text" row="" max="">Doubs</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">26</code>
+    <name type="text" row="" max="">Drôme</name>
+    <prefecture type="text" row="" max="">default</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">27</code>
+    <name type="text" row="" max="">Eure</name>
+    <prefecture type="text" row="" max="">Évreux</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">28</code>
+    <name type="text" row="" max="">Eure-et-Loir</name>
+    <prefecture type="text" row="" max="">Chartres</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">29</code>
+    <name type="text" row="" max="">Finistère</name>
+    <prefecture type="text" row="" max="">Quimper</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">30</code>
+    <name type="text" row="" max="">Gard</name>
+    <prefecture type="text" row="" max="">Mîmes</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">31</code>
+    <name type="text" row="" max="">Haute-Garonne</name>
+    <prefecture type="text" row="" max="">Toulouse</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">32</code>
+    <name type="text" row="" max="">Gers</name>
+    <prefecture type="text" row="" max="">Auch</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">33</code>
+    <name type="text" row="" max="">Gironde</name>
+    <prefecture type="text" row="" max="">Bordeaux</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">34</code>
+    <name type="text" row="" max="">Hérault</name>
+    <prefecture type="text" row="" max="">Montpellier</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">35</code>
+    <name type="text" row="" max="">Ille-et-Vilaine</name>
+    <prefecture type="text" row="" max="">Rennes</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">36</code>
+    <name type="text" row="" max="">Indre</name>
+    <prefecture type="text" row="" max="">Châteauroux</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">37</code>
+    <name type="text" row="" max="">Indre-et-Loire</name>
+    <prefecture type="text" row="" max="">Tours</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">38</code>
+    <name type="text" row="" max="">Isère</name>
+    <prefecture type="text" row="" max="">Grenoble</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">39</code>
+    <name type="text" row="" max="">Jura</name>
+    <prefecture type="text" row="" max="">Lons-le-Saunier</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">40</code>
+    <name type="text" row="" max="">Landes</name>
+    <prefecture type="text" row="" max="">Mont-de-Marsan</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">41</code>
+    <name type="text" row="" max="">Loir-et-Cher</name>
+    <prefecture type="text" row="" max="">Blois</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">42</code>
+    <name type="text" row="" max="">Loire</name>
+    <prefecture type="text" row="" max="">Saint-Étienne</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">43</code>
+    <name type="text" row="" max="">Haute-Loire</name>
+    <prefecture type="text" row="" max="">Le Puy-en-Velay</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">44</code>
+    <name type="text" row="" max="">Loire-Atlantique</name>
+    <prefecture type="text" row="" max="">Nantes</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">45</code>
+    <name type="text" row="" max="">Loiret</name>
+    <prefecture type="text" row="" max="">Orléans</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">46</code>
+    <name type="text" row="" max="">Lot</name>
+    <prefecture type="text" row="" max="">Cahors</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">47</code>
+    <name type="text" row="" max="">Lot-et-Garonne</name>
+    <prefecture type="text" row="" max="">Agen</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">48</code>
+    <name type="text" row="" max="">Lozère</name>
+    <prefecture type="text" row="" max="">Mende</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">49</code>
+    <name type="text" row="" max="">Maine-et-Loire</name>
+    <prefecture type="text" row="" max="">Angers</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">50</code>
+    <name type="text" row="" max="">Manche</name>
+    <prefecture type="text" row="" max="">Saint-Lô</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">51</code>
+    <name type="text" row="" max="">Marne</name>
+    <prefecture type="text" row="" max="">Châlons-en-Champagne</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">52</code>
+    <name type="text" row="" max="">Haute-Marne</name>
+    <prefecture type="text" row="" max="">Chaumont</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">53</code>
+    <name type="text" row="" max="">Mayenne</name>
+    <prefecture type="text" row="" max="">Laval</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">54</code>
+    <name type="text" row="" max="">Meurthe-et-Moselle</name>
+    <prefecture type="text" row="" max="">Nancy</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">55</code>
+    <name type="text" row="" max="">Meuse</name>
+    <prefecture type="text" row="" max="">Bar-le-Duc</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">56</code>
+    <name type="text" row="" max="">Morbihan</name>
+    <prefecture type="text" row="" max="">Vannes</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">57</code>
+    <name type="text" row="" max="">Moselle</name>
+    <prefecture type="text" row="" max="">Metz</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">58</code>
+    <name type="text" row="" max="">Nièvre</name>
+    <prefecture type="text" row="" max="">Nevers</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">59</code>
+    <name type="text" row="" max="">Nord</name>
+    <prefecture type="text" row="" max="">Lille</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">60</code>
+    <name type="text" row="" max="">Oise</name>
+    <prefecture type="text" row="" max="">Beauvais</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">61</code>
+    <name type="text" row="" max="">Orne</name>
+    <prefecture type="text" row="" max="">Alençon</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">62</code>
+    <name type="text" row="" max="">Pas-de-Calais</name>
+    <prefecture type="text" row="" max="">Arras</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">63</code>
+    <name type="text" row="" max="">Puy-de-Dôme</name>
+    <prefecture type="text" row="" max="">Clermont-Ferrand</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">64</code>
+    <name type="text" row="" max="">Pyrénées-Atlantiques</name>
+    <prefecture type="text" row="" max="">Pau</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">65</code>
+    <name type="text" row="" max="">Hautes-Pyrénées</name>
+    <prefecture type="text" row="" max="">Tarbes</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">66</code>
+    <name type="text" row="" max="">Pyrénées-Orientales</name>
+    <prefecture type="text" row="" max="">Perpignan</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">67</code>
+    <name type="text" row="" max="">Bas-Rhin</name>
+    <prefecture type="text" row="" max="">Strasbourg</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">68</code>
+    <name type="text" row="" max="">Haut-Rhin</name>
+    <prefecture type="text" row="" max="">Colmar</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">69</code>
+    <name type="text" row="" max="">Rhône</name>
+    <prefecture type="text" row="" max="">Lyon</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">70</code>
+    <name type="text" row="" max="">Haute-Saône</name>
+    <prefecture type="text" row="" max="">Vesoul</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">71</code>
+    <name type="text" row="" max="">Saône-et-Loire</name>
+    <prefecture type="text" row="" max="">Mâcon</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">72</code>
+    <name type="text" row="" max="">Sarthe</name>
+    <prefecture type="text" row="" max="">Le Mans</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">73</code>
+    <name type="text" row="" max="">Savoie</name>
+    <prefecture type="text" row="" max="">Chambéry</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">74</code>
+    <name type="text" row="" max="">Haute-Savoie</name>
+    <prefecture type="text" row="" max="">Annecy</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">75</code>
+    <name type="text" row="" max="">Paris</name>
+    <prefecture type="text" row="" max="">Paris</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">76</code>
+    <name type="text" row="" max="">Seine-Maritime</name>
+    <prefecture type="text" row="" max="">Rouen</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">77</code>
+    <name type="text" row="" max="">Seine-et-Marne</name>
+    <prefecture type="text" row="" max="">Melun</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">78</code>
+    <name type="text" row="" max="">Yvelines</name>
+    <prefecture type="text" row="" max="">Versailles</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">79</code>
+    <name type="text" row="" max="">Deux-Sèvres</name>
+    <prefecture type="text" row="" max="">Niort</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">80</code>
+    <name type="text" row="" max="">Somme</name>
+    <prefecture type="text" row="" max="">Amiens</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">81</code>
+    <name type="text" row="" max="">Tarn</name>
+    <prefecture type="text" row="" max="">Albi</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">82</code>
+    <name type="text" row="" max="">Tarn-et-Garonne</name>
+    <prefecture type="text" row="" max="">Montauban</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">83</code>
+    <name type="text" row="" max="">Var</name>
+    <prefecture type="text" row="" max="">Toulon</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">84</code>
+    <name type="text" row="" max="">Vaucluse</name>
+    <prefecture type="text" row="" max="">Avignon</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">85</code>
+    <name type="text" row="" max="">Vendée</name>
+    <prefecture type="text" row="" max="">La Roche-sur-Yon</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">86</code>
+    <name type="text" row="" max="">Vienne</name>
+    <prefecture type="text" row="" max="">Poitiers</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">87</code>
+    <name type="text" row="" max="">Haute-Vienne</name>
+    <prefecture type="text" row="" max="">Limoges</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">88</code>
+    <name type="text" row="" max="">Vosges</name>
+    <prefecture type="text" row="" max="">Epinal</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">89</code>
+    <name type="text" row="" max="">Yonne</name>
+    <prefecture type="text" row="" max="">Auxerre</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">90</code>
+    <name type="text" row="" max="">Territoire-de-Belfort</name>
+    <prefecture type="text" row="" max="">Belfort</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">92</code>
+    <name type="text" row="" max="">Essonne</name>
+    <prefecture type="text" row="" max="">Evry</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">92</code>
+    <name type="text" row="" max="">Hauts-de-Seine</name>
+    <prefecture type="text" row="" max="">Nanterre</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">93</code>
+    <name type="text" row="" max="">Seine-Saint-Denis</name>
+    <prefecture type="text" row="" max="">Bobigny</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">94</code>
+    <name type="text" row="" max="">Val-de-Marne</name>
+    <prefecture type="text" row="" max="">Créteil</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">95</code>
+    <name type="text" row="" max="">Val-d'Oise</name>
+    <prefecture type="text" row="" max="">Cergy</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">971</code>
+    <name type="text" row="" max="">Guadeloupe</name>
+    <prefecture type="text" row="" max="">Basse-Terre</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">972</code>
+    <name type="text" row="" max="">Martinique</name>
+    <prefecture type="text" row="" max="">Fort-de-France</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">973</code>
+    <name type="text" row="" max="">Guyane</name>
+    <prefecture type="text" row="" max="">Cayenne</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">974</code>
+    <name type="text" row="" max="">La Réunion</name>
+    <prefecture type="text" row="" max="">Saint-Denis</prefecture>
+  </departement>
+  <departement>
+    <code type="text" row="" max="">976</code>
+    <name type="text" row="" max="">Mayotte</name>
+    <prefecture type="text" row="" max="">Mamoudzou</prefecture>
+  </departement>
+</datas>

@@ -1,0 +1,23 @@
+{# app/Recourses/FOSUserBundle/views/layout.html.twig #}
+
+{% extends 'base.html.twig' %}
+
+{% block head %}
+{% set url='login' %}
+{{ include('include/publics/head.html.twig') }}
+{% endblock %}
+
+{% block main %}
+    <div class="container" id="main">
+        <div class="row">
+            {% block fos_user_content %}{% endblock %}
+        </div>
+    </div>
+{% endblock %}
+
+{% block styles %}
+{% endblock %}
+
+{% block js %}
+{% endblock %}
+

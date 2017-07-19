@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datas>
+  <europe>
+    <name type="text" row="" max="">Austria_Autriche</name>
+    <code type="text" row="" max="">040_AT_AUT</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Belgium_Belgique</name>
+    <code type="text" row="" max="">056_BE_BEL</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Bulgaria_Bulgarie</name>
+    <code type="text" row="" max="">100_BR_BGR</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Croatia_Croatie</name>
+    <code type="text" row="" max="">191_HR_HRV</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Cyprus_Chypre</name>
+    <code type="text" row="" max="">196_CY_CYP</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Czech Republic_République Tchèque</name>
+    <code type="text" row="" max="">203_CZ_CZE</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Denmark_Danemark</name>
+    <code type="text" row="" max="">208_DK_DNK</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Estonia_Estonie</name>
+    <code type="text" row="" max="">233_EE_EST</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Finland_Finlande</name>
+    <code type="text" row="" max="">246_FI_FIN</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">French_France</name>
+    <code type="text" row="" max="">250_FR_FRA</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Germany_Allemagne</name>
+    <code type="text" row="" max="">276_DE_DEU</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Greece_Grèce</name>
+    <code type="text" row="" max="">300_GR_GRC</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Hungary_Hongrie</name>
+    <code type="text" row="" max="">348_HU_HUN</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Ireland_Irlande</name>
+    <code type="text" row="" max="">372_IE_IRL</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Italy_Italie</name>
+    <code type="text" row="" max="">380_IT_ITA</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Latvia_Lettonie</name>
+    <code type="text" row="" max="">428_LV_LVA</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Lithuania_Lituanie</name>
+    <code type="text" row="" max="">440_LT_LTU</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Luxembourg_Luxembourg</name>
+    <code type="text" row="" max="">442_LU_LUX</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Malta_Malte</name>
+    <code type="text" row="" max="">470_MT_MLT</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Netherlands_Pays-Bas</name>
+    <code type="text" row="" max="">528_NL_NLD</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Poland_Pologne</name>
+    <code type="text" row="" max="">616_PL_POL</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Portugal_Portugal</name>
+    <code type="text" row="" max="">620_PT_PRT</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Romania_Roumanie</name>
+    <code type="text" row="" max="">642_RO_ROU</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Slovakia_Slovaquie</name>
+    <code type="text" row="" max="">703_SK_SVK</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Slovenia_Slovénie</name>
+    <code type="text" row="" max="">705_SI_SVN</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Spain_Espagne</name>
+    <code type="text" row="" max="">724_ES_ESP</code>
+  </europe>
+  <europe>
+    <name type="text" row="" max="">Sweden_Suède</name>
+    <code type="text" row="" max="">752_SE_SWE</code>
+  </europe>
+</datas>

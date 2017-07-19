@@ -1,0 +1,38 @@
+{# app/Recourses/views/publics/home.html.twig #}
+
+{% extends 'base.html.twig' %}
+
+{% block head %}
+{{ include('include/publics/head.html.twig') }}
+{% endblock %}
+
+{% block main %}
+    <div class="container" id="main">
+        <div class="row">
+            <div class="col-xs-12">
+                <h2>Découverte</h2>
+                <p>Le bonobo a été décrit pour la première fois comme sous-espèce (<i>Pan satyrus paniscus</i>) par l'anatomiste et zoologiste berlinois <a href="https://fr.wikipedia.org/wiki/Ernst_Schwarz" title="Ernst Schwarz">Ernst Schwarz</a> en 1929, grâce à une série de crânes conservés au musée royal du Congo belge (actuellement <a href="https://fr.wikipedia.org/wiki/Mus%C3%A9e_royal_de_l%27Afrique_centrale" title="Musée royal de l'Afrique centrale">musée royal de l'Afrique centrale</a>, à <a href="https://fr.wikipedia.org/wiki/Tervuren" title="Tervuren">Tervuren</a> en Belgique). La parution officielle est une description scientifique publiée en allemand&nbsp;: «&nbsp;<i>Das Vorkommen des Schimpansen auf den linken Kongo-Ufer</i>&nbsp;», qui ne compte qu’une quarantaine de lignes, dans la <i>Revue de zoologie et de botanique africaine</i> du <time class="nowrap date-lien" datetime="1929-04-01"><a href="https://fr.wikipedia.org/wiki/1er_avril" title="1er avril">1<sup>er</sup></a> <a href="https://fr.wikipedia.org/wiki/Avril_1929" title="Avril 1929">avril</a> <a href="/wiki/1929" title="1929">1929</a></time>. Elle fournit les mesures d’un seul spécimen.</p>
+            </div>
+            <div class="col-xs-12">
+                <h2>Description</h2>
+                <p>Le mâle mesure environ 1,19 m pour un poids allant de 37 à 61 kg (45 kg en moyenne). La femelle mesure 1,11 m pour un poids allant de 27 à 38 kg (33,2 kg en moyenne). Le <a href="https://fr.wikipedia.org/wiki/Dimorphisme_sexuel" title="Dimorphisme sexuel">dimorphisme sexuel</a> est moins prononcé que chez la plupart des primates. Leur poils sont généralement plus longs que chez le <a href="https://fr.wikipedia.org/wiki/Chimpanz%C3%A9_commun" class="mw-redirect" title="Chimpanzé commun">chimpanzé commun</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite_crochet">[</span>5<span class="cite_crochet">]</span></a></sup>.</p>
+            </div>
+            <div class="col-xs-12">
+                <h2>Organisation sociale et sexualité</h2>
+                <p>Chez les bonobos, les relations sexuelles, feintes ou réelles, sont plus souvent utilisées comme mode de résolution des conflits, à côté des mécanismes de domination. Les études suggèrent que les trois quarts des rapports sexuels entre bonobos n'ont pas de fin reproductive, mais plutôt sociale, et que presque tous les bonobos sont pansexuels. Des scientifiques ont appelé cette méthode d'accouplement le « sexe convivial »9. Il est courant qu'un membre du groupe pratique des actes sexuels dans le but de plaire à un autre membre ou pour réduire les tensions sociales. Par exemple, un individu subordonné peut utiliser des actes sexuels pour calmer un autre individu plus fort ou plus agressif. Mais si la fréquence des rapports est exceptionnelle dans le règne animal, et supérieure à celle de tous les primates, les accouplements sont rapides et furtifs, sans aucun geste préparatoire, et ne durent en moyenne qu'une quinzaine de secondes. Leur seul tabou sexuel serait l'inceste, bien que les relations sexuelles incluent également les juvéniles.
+Deux singes accouplés face à face.
+Accouplement de deuxbonobos. À côté des pratiques sexuelles variées dont la sexualité orale, le baiser avec la langue ou les rapports homosexuels (le primatologue Frans de Waal préfère d'ailleurs parler de « pansexualité » et non pas d'homosexualité ou de bisexualité, pour insister sur le fait que la sexualité du bonobo est totalement ouverte à toutes les relations, et n'est pas orientée vers un seul sexe, un seul genre ; il a même découvert chez les Bonobos une pratique, l'« escrime au pénis »9, qui peut être comparé à la pratique du frottement entre deux pénis chez les humains), le bonobo serait l'un des seuls mammifères à pratiquer, comme l'humain, le coït ventro-ventral (face à face).
+</p>
+<p><a href="https://fr.wikipedia.org/wiki/Bonobo" target="_blank">sources Wikipedia</a></p>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" href="{{ asset('skin/css/styles.css') }}" />
+{% endblock %}
+
+{% block js %}
+    <script type="text/javascript" src="{{ asset('skin/js/publics/home.js') }}"></script>
+{% endblock %}

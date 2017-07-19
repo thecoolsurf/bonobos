@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datas>
+  <presse>
+    <titre type="textarea" row="1" max="">CANAL PLUS : le Before du Grand Journal - la Connasse en "Speed dating" avec Happysingles.fr.</titre>
+    <legende type="hidden_textarea" row="6" max="">La comédienne Camille Cottin s'est cette fois-ci rendue à un speed dating ! Orchestré par Annie Jolec.
+Comparée à la série Bref, la pastille humoristique "La Connasse" est assurément LA micro-série à suivre sur Canal+. Depuis la rentrée, la comédienne Camille Cottin campe le rôle d'une parisienne impolie, agaçante et irritante. Il y a quelques semaines la Connasse s'était rendue au marché. Cette fois-ci la comédienne s'attaque à un autre terrain, celui de la séduction. Et quoi de mieux que le speed dating pour parfaire son rôle de "connasse" parisienne ? Le speed dating que l'on peut traduire en français par "rencontres express" consiste à faire des rencontres amoureuses rapides et en série. Sans réelle surprise, la comédienne a très rapidement pris ses aises lors de ses rencontres amoureuses. "Ça te dérange pas si je maquille en attendant le prochain ?", "Tu gagnes combien par mois, à 10 000 euros près ?" ou encore "Et dans ton slip, ça sent le parmesan ?", la comédienne ose tout et se lâche complètement face à des hommes visiblement déboussolés devant tant de désinvolture.</legende>
+    <lien type="hidden_text" row="" max="">default</lien>
+    <photo type="hidden" row="" max="">connasse.jpg</photo>
+  </presse>
+</datas>

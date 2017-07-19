@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datas>
+  <texte>
+    <h1 type="textarea" row="16" max="">Welcome with BONOBOS!</h1>
+    <h2 type="textarea" row="16" max="">Découverte</h2>
+    <p type="textarea" row="16" max="">Le bonobo a été décrit pour la première fois comme sous-espèce (Pan satyrus paniscus) par l'anatomiste et zoologiste berlinois Ernst Schwarz en 1929, grâce à une série de crânes conservés au musée royal du Congo belge (actuellement musée royal de l'Afrique centrale, à Tervuren en Belgique). La parution officielle est une description scientifique publiée en allemand: «Das Vorkommen des Schimpansen auf den linken Kongo-Ufer», qui ne compte qu’une quarantaine de lignes, dans la Revue de zoologie et de botanique africaine du 1er avril 1929. Elle fournit les mesures d’un seul spécimen.</p>
+  </texte>
+  <texte>
+    <h1 type="textarea" row="16" max="">default</h1>
+    <h2 type="textarea" row="16" max="">Description</h2>
+    <p type="textarea" row="16" max="">Le mâle mesure environ 1,19 m pour un poids allant de 37 à 61 kg (45 kg en moyenne). La femelle mesure 1,11 m pour un poids allant de 27 à 38 kg (33,2 kg en moyenne). Le dimorphisme sexuel est moins prononcé que chez la plupart des primates. Leur poils sont généralement plus longs que chez le chimpanzé commun[5].</p>
+  </texte>
+</datas>
