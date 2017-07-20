@@ -1,28 +1,33 @@
-Bonobo Standard Edition
-========================
+#Bonobo Standard Edition
+####Test de manipulation du Framework Symfony v3.3.4
 
-Test de manipulation du Framework Symfony v3.3.4
+==========================================
 
-Modules supplémentaires:
-        beberlei/DoctrineExtensions v1.0
-        doctrine/doctrine-fixtures-bundle v2.3
-        friendsofsymfony/user-bundle v2.0
-        hautelook/alice-bundle v1.3
-        twig/extensions v1.5
+##What's inside?
+---
 
-What's inside?
---------------
+###Modules supplémentaires:
 
-Liste des pages:
+1. beberlei/DoctrineExtensions v1.0
+2. doctrine/doctrine-fixtures-bundle v2.3
+3. friendsofsymfony/user-bundle v2.0
+4. hautelook/alice-bundle v1.3
+5. twig/extensions v1.5
 
-  * Home page
+##Liste des pages:
+---
 
-  * About
+* Home
+* About
 
-  * Members
+FOSUserbundle
 
-  * Friends
+* Login
+* Registration
+* Profile
+* Resetting
+* Change
+* Others...
 
-  * MyAccount
- 
-  * etc....
+
+[h.douin.free.fr](http://h.douin.free.fr/ "Title") - developpeur webdesigner multimedias.
