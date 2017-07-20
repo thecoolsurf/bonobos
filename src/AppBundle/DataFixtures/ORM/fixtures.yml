@@ -16,8 +16,8 @@ AppBundle\Entity\Member:
         usernameCanonical: <identity($username)>
         email: <email()>
         emailCanonical: <identity($email)>
-        enabled: 0
-        salt: ''
+        enabled: 1
+        salt: null
         password: <sha1()>
         lastLogin: 2017-06-13
         confirmationToken: null

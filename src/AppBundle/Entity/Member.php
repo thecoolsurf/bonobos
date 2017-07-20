@@ -100,6 +100,13 @@ class Member extends BaseUser
      */
     private $race;
     
+    /**
+     * Many Member() have Many Foods()
+     * @ORM\ManyToMany(targetEntity="Foods", cascade={"persist"})
+     * @ORM\JoinColumn(name="food_id", referencedColumnName="id")
+     */
+    private $foods;
+    
     /* ********************************************************************** */
     
     /**
@@ -242,4 +249,33 @@ class Member extends BaseUser
         return $this->race;
     }
 
+    /**
+     * Add food
+     * @param \AppBundle\Entity\Foods $food
+     * @return Member
+     */
+    public function addFood(\AppBundle\Entity\Foods $food)
+    {
+        $this->foods[] = $food;
+        return $this;
+    }
+
+    /**
+     * Remove food
+     * @param \AppBundle\Entity\Foods $food
+     */
+    public function removeFood(\AppBundle\Entity\Foods $food)
+    {
+        $this->foods->removeElement($food);
+    }
+
+    /**
+     * Get foods
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getFoods()
+    {
+        return $this->foods;
+    }
+    
 }
